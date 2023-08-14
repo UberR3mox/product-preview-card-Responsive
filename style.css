@@ -108,6 +108,7 @@ max-width: 100%;
   width: 15px;
   height: 16px;
   background: url("icon-cart.svg");
+}
 
 @media (max-width:700px)
 {
